@@ -1,0 +1,12 @@
+[project]
+name = "Simplex"
+version = "0.0.1"
+description = "simplex implementation using numpy"
+readme = "README.md"
+authors = [
+    { name = "Arthur Jacobina", email = "email27arthur@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.4",
+]
