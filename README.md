@@ -25,7 +25,7 @@ Where:
 
 Install dependencies:
 ```bash
-uv install
+uv sync
 ```
 
 ## Quick Start
